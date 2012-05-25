@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/continer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.87"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tvone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#3b5998"
+            android:textSize="28sp" />
+
+        <TextView
+            android:id="@+id/tvtwo"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"               
+            android:textColor="#3b5998"
+            android:textSize="28sp" />
+
+        <TextView
+            android:id="@+id/tvthree"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=""            
+            android:textColor="#3b5998"
+            android:textSize="28sp" />
+
+        <TextView
+            android:id="@+id/tvfour"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=""            
+            android:textColor="#3b5998"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_details_button"
+        android:textColor="#fffafa"
+        android:textSize="22sp"
+        android:text="Button Sinhala" />
+
+</LinearLayout>

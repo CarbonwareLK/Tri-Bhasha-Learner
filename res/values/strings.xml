@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tri-Bhasha-Learner</string>
+    <string name="opdialog_rb_sinhala">Sinhala</string>    
+    <string name="opdialog_rb_tamil">Tamil</string>
+    <string name="aboutus">Tri-Bhasha-Learner v2.1\n\nApp By: Dew.Durapix.Amalan Associates\n\nLead-Dev: Dewmal Nilanka (UOP-CS)\nDesign-Dev: Harsha Siriwardena (SLIIT-IT)\nConcept-Dev: Amalan Dhananjayan (SLIIT-IT)\n\nTop-Contributors: Sajev, Jeypa, Luksh, Yathavan, Pavithra, Kaushal, Hansaja.\n\nFor more apps visit:\nandroid.harshadura.net</string>
+   
+    <string-array name="keymap">
+        <item>key3</item>
+        <item>key4</item>
+        <item>key5</item>        
+        <item>key100</item>
+        <item>key101</item>
+        <item>key102</item>
+        <item>key103</item>
+  		<item>key104</item>    
+        <item>key105</item>
+        <item>key106</item>
+        <item>key107</item>
+        <item>key108</item>
+        <item>key109</item>    
+        <item>key110</item> 
+        <item>key111</item>
+        <item>key112</item>
+        <item>key113</item>
+        <item>key114</item>
+        <item>key115</item>    
+        <item>key116</item>
+        <item>key117</item>
+        <item>key118</item>
+        <item>key119</item>
+        <item>key120</item>    
+        <item>key121</item> 
+        <item>key122</item>
+        <item>key123</item>
+        <item>key124</item>    
+        <item>key125</item>
+        <item>key126</item>
+        <item>key127</item>
+        <item>key128</item>
+        <item>key129</item>    
+        <item>key130</item> 
+        <item>key131</item> 
+        <item>key132</item>
+        <item>key133</item>
+        <item>key134</item> 
+        <item>key136</item>
+        <item>key137</item>
+        <item>key138</item>
+        <item>key139</item>    
+        <item>key140</item>
+        <item>key141</item> 
+        <item>key142</item>
+        <item>key143</item>
+        <item>key144</item>    
+        <item>key145</item>
+        <item>key146</item>
+        <item>key147</item>
+        <item>key148</item>
+        <item>key149</item>    
+        <item>key150</item>    
+    </string-array>
+
+    <string name="gen">General Conversation</string>
+    <string name="gre">Greetings</string>
+    <string name="dir">Directions n Places</string>
+    <string name="num">Numbers</string>
+    <string name="eat">Eating out</string>
+    <string name="random">Random</string>
+    
+    <string name="key3_en">Where\'s the bus halt?</string>
+    <string name="key3_si">fldfyo nia kj;a;k ;ek@</string>
+    <string name="key3_sip">kohedha bus nawattana tana?</string>
+    <string name="key3_ta">பஸ் தரிப்பு நிலையம் எங்கே உள்ளது?</string>
+    <string name="key3_tap">Bus tharippu nilayam enge ulllathu?</string>  
+    <string name="key3_grp">dir</string>         
+    
+    <string name="key4_en">Whats your name?</string>
+    <string name="key4_si">Thdf. ku fudllao@</string>
+    <string name="key4_sip">oyage nama mokakda?</string>
+    <string name="key4_ta">உங்கள் பெயர் என்ன?</string>
+    <string name="key4_tap">ungal peyar enna?</string>        
+    <string name="key4_grp">gen</string>         
+    
+    <string name="key5_en">Good morning!</string>
+    <string name="key5_si">iqN WoEikla fõjd`</string>
+    <string name="key5_sip">subha udasanak wewa!</string>
+    <string name="key5_ta">காலை வணக்கம்!</string>
+    <string name="key5_tap">kaalai vanakkam!</string>        
+    <string name="key5_grp">gre</string>      
+  
+    <string name="key100_en">Shall we play?</string>
+    <string name="key100_si">wms fi,a,ï lruqo@</string>
+    <string name="key100_sip">api sellam karamuda?</string>
+    <string name="key100_ta">நாங்கள் விளையாடுவோமா?</string>
+    <string name="key100_tap">nangal vilaiyaduvoma ?</string>
+    <string name="key100_grp">gen</string>         
+    
+    <string name="key101_en">My hobby is book reading.</string>
+    <string name="key101_si">uf. úfkdaodxYh fmd;a lshùuhs\'</string>
+    <string name="key101_sip">mage vinodaanshaya poth kiyaweemai</string>
+    <string name="key101_ta">எனது பொழுதுபோக்கு புத்தகம் வாசித்தல்.</string>
+    <string name="key101_tap">Enathu poluthupoku puthakam vaasithal.</string>    
+    <string name="key101_grp">gen</string>
+    
+  	<string name="key102_en">I will come tomorrow </string>
+    <string name="key102_si">uu fyg tkakï</string>
+    <string name="key102_sip">mama heta ennam</string>
+    <string name="key102_ta">நான் நாளைக்கு வருகிறேன் </string>
+    <string name="key102_tap">Naan naaliakku varugiraen.</string>
+    <string name="key102_grp">gen</string>
+
+ 	<string name="key103_en">I have a important work today.</string>
+    <string name="key103_si">ug wo jeo.;a jevla ;sfhkjd</string>
+    <string name="key103_sip">mata ada wadagat wadak tiyenawa</string>
+    <string name="key103_ta">எனக்கு இன்று முக்கிய வேலை ஒன்று உள்ளது.</string>
+    <string name="key103_tap">Enakku indru mukkiya velai ondru ullathu.</string>
+ 	<string name="key103_grp">gen</string>
+ 	
+    <string name="key104_en">I have to go to the post office</string>
+    <string name="key104_si">ug wo ;eme,a ld¾hd,hg hkak ´kd\'</string>
+    <string name="key104_sip">mata ada thapal kaaryaalayata yanna ona </string>
+    <string name="key104_ta">எனக்கு தபால் நிலையத்துக்கு செல்ல வேண்டும்.</string>
+    <string name="key104_tap">Enakku thabaal nelaiyathukku sella vendum.</string>
+ 	<string name="key104_grp">dir</string>
+
+    <string name="key105_en">what is your home address ?</string>
+    <string name="key105_si">Thdf. f.or ,smskh fudllao@</string>
+    <string name="key105_sip">oyage gedara lipinaya mokakda?</string>
+    <string name="key105_ta">உங்கள் வீட்டின் முகவரி என்ன?</string>
+    <string name="key105_tap">Ungal veetin mugavari enna?</string>
+ 	<string name="key105_grp">dir</string>
+
+    <string name="key106_en">Did you eat?</string>
+    <string name="key106_si">Thd lEjo@</string>
+    <string name="key106_sip">oya kawada?</string>
+    <string name="key106_ta">நீங்கள் சாப்டிர்களா?</string>
+    <string name="key106_tap">Neengal saapdirgala? </string>
+ 	<string name="key106_grp">eat</string>
+
+    <string name="key107_en">I have to buy a pen.</string>
+    <string name="key107_si">ug mEkla .kak ´kd</string>
+    <string name="key107_sip">mata paanak ganna ona.</string>
+    <string name="key107_ta">எனக்கு பேனை ஒன்று வாங்க வேண்டும்.</string>
+    <string name="key107_tap">Enakku penai ondru vaanga vendum. </string>
+   	<string name="key107_grp">gen</string>
+   
+    <string name="key108_en">How much for the ticket from colombo to galle?</string>
+    <string name="key108_si">fld,U bo,d .d,a,g álÜ tlla lSho@</string>
+    <string name="key108_sip">kolaba idala gaallata tiket ekak keeyada?</string>
+    <string name="key108_ta">கொழும்பில் இருந்து காலி செல்வதுக்கு பிரயாண சீட்டு எவ்வளவு?</string>
+    <string name="key108_tap">Colombil irunthu Galle selvadhukkana perayaana seetu evalavu ?</string>
+    <string name="key108_grp">num</string>
+    
+    <string name="key109_en">I lost my pen.</string>
+    <string name="key109_si">uf.a mEk ke;s Wkd\'</string>
+    <string name="key109_sip">mage paana nati una.</string>
+    <string name="key109_ta">எனது பேனா தொலைந்துவிட்டது.</string>
+    <string name="key109_tap">Enathu penaa tholainthuvoddathu.</string>
+    <string name="key109_grp">gen</string>         
+
+    <string name="key110_en">we play volleyball today.</string>
+    <string name="key110_si">wms wo fjd,sfnda,a fi,a,ï lruq\'</string>
+    <string name="key110_sip">api ada voleybol sellam karamu.</string>
+    <string name="key110_ta">இன்று நாம் வலை பந்து விளையாடுவோம் </string>
+    <string name="key110_tap">inru nam valai panthu velaiyaduvom </string>
+    <string name="key110_grp">gen</string>         
+
+    <string name="key111_en">I can not open this door. </string>
+    <string name="key111_si">ug fï fodr wßkak neye</string>
+    <string name="key111_sip">mata mee dora arinna baha</string>
+    <string name="key111_ta">எனக்கு இந்த கதவை திறக்க முடியாது. </string>
+    <string name="key111_tap">Enakku intha kadhavai thirakka mudiyathu. </string>
+    <string name="key111_grp">random</string>         
+
+    <string name="key112_en">meeting is cancelled</string>
+    <string name="key112_si">/iaùu wj,x.= lrk ,§</string>
+    <string name="key112_sip">rasweema avalangu karana ladi</string>
+    <string name="key112_ta">கூட்டம் நிறுத்தப்பட்டது </string>
+    <string name="key112_tap">koottam niruththappattathu.</string>
+    <string name="key112_grp">random</string>         
+
+    <string name="key113_en">I am feeling not well today.</string>
+    <string name="key113_si">ug wo ikSm keye\'</string>
+    <string name="key113_sip">mata ada saneepa naha.</string>
+    <string name="key113_ta">எனக்கு இன்று சுகவீனமாக உள்ளது.</string>
+    <string name="key113_tap">Enakku indru sugaveenamaaga ullathu.</string>
+    <string name="key113_grp">random</string>         
+
+    <string name="key114_en">where is the party tonight?</string>
+    <string name="key114_si">wo ?g mdáh fldfyo ;Skafka@</string>
+    <string name="key114_sip">ada raata partya koheda tinne?</string>
+    <string name="key114_ta">உபசாரம் இன்று இரவு எங்கே உள்ளது?</string>
+    <string name="key114_tap">ubasaaram indru iravu engae ullathu?</string>
+    <string name="key114_grp">dir</string>         
+
+    <string name="key115_en">what is the time now?</string>
+    <string name="key115_si">oeka fj,dj lSho@</string>
+    <string name="key115_sip">dan welawa keeyada?</string>
+    <string name="key115_ta">நேரம் என்ன?</string>
+    <string name="key115_tap">neram enna?</string>
+    <string name="key115_grp">random</string>         
+ 
+    <string name="key116_en">what is your mobile number?</string>
+    <string name="key116_si">Thdf.a fg,sfmdaka fkdïnrh fudllao@</string>
+    <string name="key116_sip">oyage telepone nombaraya mokakda?</string>
+    <string name="key116_ta">உங்களுடைய தொலைபேசி இலக்கம் என்ன?</string>
+    <string name="key116_tap">Ungalin tholaipesi ilakkam enna?</string>
+    <string name="key116_grp">gen</string>         
+
+    <string name="key117_en">will Sri Lanka team win tomorrow?</string>
+    <string name="key117_si">wo Y%S ,xld lKavdhu Èkhso@</string>
+    <string name="key117_sip">ada srilanka kandaayama dinaida?</string>
+    <string name="key117_ta">நாளை இலங்கை அணி வெற்றி பெறுமா?</string>
+    <string name="key117_tap">Naalai Ilangaai vettri peruma?</string>
+    <string name="key117_grp">gen</string>         
+
+    <string name="key118_en">Did you take bath?</string>
+    <string name="key118_si">Thd we. fidao .;a;do@</string>
+    <string name="key118_sip">oya agha soodha gatthada?</string>
+    <string name="key118_ta">நீங்கள் குளித்துவிட்டீர்களா</string>
+    <string name="key118_tap">Neengal kuliththuviteergala?</string>
+    <string name="key118_grp">gen</string>         
+
+    <string name="key119_en">What happen in school today?</string>
+    <string name="key119_si">wo biafldaf, fudlo Wfka@</string>
+    <string name="key119_sip">ada iscole mokada une?</string>
+    <string name="key119_ta">இன்று பாடசாலையில் என்ன நடந்தது?</string>
+    <string name="key119_tap">Indru paadasalaiyil enna nadanthathu?</string>
+    <string name="key119_grp">random</string>         
+
+    <string name="key120_en">I am going to library.</string>
+    <string name="key120_si">uu mqia;ld,hg hkjd\'</string>
+    <string name="key120_sip">mama pusthakaalayata yanawa.</string>
+    <string name="key120_ta">நான் வாசிகசாலைக்கு செல்கின்றேன்.</string>
+    <string name="key120_tap">Naan vaasikasaalaiku selkinren.</string>
+    <string name="key120_grp">dir</string>         
+
+    <string name="key121_en">becareful when you are playing.</string>
+    <string name="key121_si">Thd fi,a,ï lrkfldg m%fõiñka\'</string>
+    <string name="key121_sip">oya sellam karanakota prawesamin.</string>
+    <string name="key121_ta">விளையாடும் போது கவனம்  தேவை </string>
+    <string name="key121_tap">velaiyadum pothu kavanam thevai</string>
+    <string name="key121_grp">gen</string>         
+
+    <string name="key122_en">Where did you go yesterday?</string>
+    <string name="key122_si">Thd Bfh fldfyo .sfha@</string>
+    <string name="key122_sip">oya eeye koheda giye?</string>
+    <string name="key122_ta">நேற்று நீங்கள் எங்கு போனீர்கள்? </string>
+    <string name="key122_tap">Netru neengal engu ponerkal?</string>
+    <string name="key122_grp">dir</string>         
+
+    <string name="key123_en">how old are you?</string>
+    <string name="key123_si">Thdf.a jhi lSho@</string>
+    <string name="key123_sip">oyage wayasa keeyada?</string>
+    <string name="key123_ta">உங்கள் வயது என்ன ?</string>
+    <string name="key123_tap">ungal vayathu enna ?</string>
+    <string name="key123_grp">gen</string>         
+
+    <string name="key124_en">why this kolaveri di..?</string>
+    <string name="key124_si">wehs fl,af, fï ;rï oreKq fldamh@</string>
+    <string name="key124_sip">ayi kelle mee taram darunu kopaya?</string>
+    <string name="key124_ta">ஏன் இந்த கொலைவெறி டி ?</string>
+    <string name="key124_tap">ean inthakolaiveri di ?</string>
+    <string name="key124_grp">random</string>         
+
+    <string name="key125_en">We should respect our parents.</string>
+    <string name="key125_si">wms wmf.a fouõmshkag .re l, hq;=hs\'</string>
+    <string name="key125_sip">api apagee demavupiyanta garu kala yuthuyi.</string>
+    <string name="key125_ta">நாம் எமது பெற்றோரை மதிக்கவேண்டும்.</string>
+    <string name="key125_tap">Naam emathu petrorai mathikavendum.</string>
+    <string name="key125_grp">gen</string>         
+
+    <string name="key126_en">where are you live?</string>
+    <string name="key126_si">Thd bkafk fldfyo@</string>
+    <string name="key126_sip">oya inne koheda?</string>
+    <string name="key126_ta">நீங்கள் எங்க உள்லீர்?</string>
+    <string name="key126_tap">neengal enga ulllear.</string>
+    <string name="key126_grp">dir</string>         
+
+    <string name="key127_en">You are so pretty</string>
+    <string name="key127_si">Thd yßu ,iaikhs</string>
+    <string name="key127_sip">oya harima lassanai</string>
+    <string name="key127_ta">நீங்கள் ரொம்ப அழகாக இருகிறிர்கள்</string>
+    <string name="key127_tap">neenga romba alahaga irukirirgal</string>
+    <string name="key127_grp">gen</string>         
+
+    <string name="key128_en">I love you.</string>
+    <string name="key128_si">uu Thdg wdofrhs\'</string>
+    <string name="key128_sip">mama oyata adarei.</string>
+    <string name="key128_ta">நான் உன்னை காதலிக்கிறேன்</string>
+    <string name="key128_tap">nan unnai kathalikiren</string>
+    <string name="key128_grp">gre</string>         
+
+    <string name="key129_en">I hate you.</string>
+    <string name="key129_si">uu Thdg fjr lrkjd\'</string>
+    <string name="key129_sip">mama oyata weira karanawa.</string>
+    <string name="key129_ta">நான் உன்னை வெறுக்கிறேன்</string>
+    <string name="key129_tap">nan unnai verukiren.</string>
+    <string name="key129_grp">gre</string>         
+
+    <string name="key130_en">Smoking is prohibited.</string>
+    <string name="key130_si">ÿï îu ;ykï\'</string>
+    <string name="key130_sip">dum beema thahanam.</string>
+    <string name="key130_ta">புகை பிடித்தல் தடை செய்ய பட்டு உள்ளது </string>
+    <string name="key130_tap">puhai pidithal thadai seiya pattu ullathu</string>
+    <string name="key130_grp">random</string>         
+
+    <string name="key131_en">whats your mothers name?</string>
+    <string name="key131_si">Thdf.a wïudf.a ku fudllao@</string>
+    <string name="key131_sip">oyage ammage nama mokakda?</string>
+    <string name="key131_ta">உங்கள் தாயார் பெயர் என்ன ?</string>
+    <string name="key131_tap">ungal thayar peyar enna?</string>
+    <string name="key131_grp">gen</string>         
+
+    <string name="key132_en">Are you angry with me?</string>
+    <string name="key132_si">Thd ud;a tlal ;ryskao@</string>
+    <string name="key132_sip">oya maat ekka tarahinda?</string>
+    <string name="key132_ta">நீங்கள் என் கூட கோபமா ?</string>
+    <string name="key132_tap">neengal en kuda kobama ?</string>
+    <string name="key132_grp">random</string>         
+ 
+    <string name="key133_en">where is the wash room?</string>
+    <string name="key133_si">kdk ldurh fldyso@</string>
+    <string name="key133_sip">naana kaamaraya koheda?</string>
+    <string name="key133_ta">களிக்கும் இடம் எங்குள்ளது ?</string>
+    <string name="key133_tap">kalikum idam enkullathu.?</string>
+    <string name="key133_grp">dir</string>         
+
+    <string name="key134_en">can you do me a favor?</string>
+    <string name="key134_si">Thdg mqÆjkao ug Woõjla lrkak@</string>
+    <string name="key134_sip">oyata puluwanda mata udauwak karana?</string>
+    <string name="key134_ta">எனக்காக இதை செய்விரா?</string>
+    <string name="key134_tap">enakaga ithai seiviraa?</string>
+    <string name="key134_grp">random</string>         
+
+    <string name="key136_en">See you on Monday.</string>
+    <string name="key136_si">wms iÿod wdhs yïfnuq\'</string>
+    <string name="key136_sip">api sandudaa aai hambemu.</string>
+    <string name="key136_ta">திங்கட்கிழமை சந்திப்போம்.</string>
+    <string name="key136_tap">Thingadkilamai santhipom.</string>
+    <string name="key136_grp">random</string>         
+
+    <string name="key137_en">I am in a meeting I will call you later.</string>
+    <string name="key137_si">uu oeka /iaùul bkafk" Thdg miafi l;d lrkakï\'</string>
+    <string name="key137_sip">mama dan rasweemaka inne, oyata passe katha karannam. </string>
+    <string name="key137_ta">நான் கூடத்தில் இருக்கிறேன் சிறிது நேரத்தில் அழைப்பை ஏற்படுத்துகிறேன்.</string>
+    <string name="key137_tap">Naan koodathil irukiren sirithu nerathil alaipai etpaduthukiren.</string>
+    <string name="key137_grp">random</string>         
+
+    <string name="key138_en">I am late.</string>
+    <string name="key138_si">uu mrlal=hs\'</string>
+    <string name="key138_sip">mama parakkui.</string>
+    <string name="key138_ta">நான் வர தாமதமாகும்.</string>
+    <string name="key138_tap">Naan vara thaamathamakum.</string>
+    <string name="key138_grp">random</string>         
+
+    <string name="key139_en">I\'ll come there at 10 PM</string>
+    <string name="key139_si">uu t;kg iji 10 fjoaÈ tkakï\'</string>
+    <string name="key139_sip">mama ethanata hawasa 10 veddi ennam.</string>
+    <string name="key139_ta">நான் அங்கு 10 PM க்கு வருவேன்.</string>
+    <string name="key139_tap">Naan anku 10 PM kku varuven.</string>
+    <string name="key139_grp">num</string>         
+
+    <string name="key140_en">Sorry I cant help you on this time.</string>
+    <string name="key140_si">iudfjkak fï wjia:dfõ Thdg Woõ lrkak wmyiqhs\'</string>
+    <string name="key140_sip">samawenna mee avasthaavee oyata udau karanna amarui.</string>
+    <string name="key140_ta">மன்னிக்கவும் என்னால் இப்பொழுது உதவி செய்ய முடியாது.</string>
+    <string name="key140_tap">Mannikavum ennal ippoluthu uthavi seiya mudiyathu.</string>
+    <string name="key140_grp">random</string>         
+
+    <string name="key141_en">whats your father name?</string>
+    <string name="key141_si">Thdf. ;d;a;df.a ku fudllao@</string>
+    <string name="key141_sip">oyage thaththage nama mokakda?</string>
+    <string name="key141_ta">உங்களது அப்பாவின் பெயர் என்ன?</string>
+    <string name="key141_tap">Ungalathu appavin peyar enna?</string>
+    <string name="key141_grp">random</string>         
+
+    <string name="key142_en">See you soon!</string>
+    <string name="key142_si">blaukg yïfnuq`</string>
+    <string name="key142_sip">ikmanata hambemu!</string>
+    <string name="key142_ta">விரைவில் சந்திப்போம்!</string>
+    <string name="key142_tap">Viraivil santhipom!</string>
+    <string name="key142_grp">random</string>         
+
+    <string name="key143_en">Thank you for everything</string>
+    <string name="key143_si">iEu foalgu yq.la ia;+;shs</string>
+    <string name="key143_sip">saama deekatama hugak sthuthi.</string>
+    <string name="key143_ta">எல்லாத்துக்கும் நன்றி.</string>
+    <string name="key143_tap">Ellathukum nanri.</string>
+    <string name="key143_grp">gre</string>         
+
+    <string name="key144_en">Please behave well.</string>
+    <string name="key144_si">lreKdlr úkS;j yeisfrkak\'</string>
+    <string name="key144_sip">karunakara wineethawa hasirenna.</string>
+    <string name="key144_ta">தயவுசெய்து ஒழுங்கா இருங்கள்.</string>
+    <string name="key144_tap">Thayavuseithu olunga irungal.</string>
+    <string name="key144_grp">gre</string>         
+
+    <string name="key145_en">please forgive me.</string>
+    <string name="key145_si">lreKdlr ug iudfjkak\'</string>
+    <string name="key145_sip">karunakara mata samaawenna.</string>
+    <string name="key145_ta">தயவுசெய்து மன்னியுங்கள்.</string>
+    <string name="key145_tap">Thayavuseithu manniiungal.</string>
+    <string name="key145_grp">gre</string>         
+
+    <string name="key146_en">This is your studying area.</string>
+    <string name="key146_si">fï Thd,f. bf.kqï m%foaYhhs\'</string>
+    <string name="key146_sip">mee oyalage igenum pradeshayai.</string>
+    <string name="key146_ta">இது நீங்கள் படிக்கும் இடம்.</string>
+    <string name="key146_tap">Ithu neengal padikum idam.</string>
+    <string name="key146_grp">random</string>         
+
+    <string name="key147_en">emergency exist is there.</string>
+    <string name="key147_si">yÈis msgjqu ;sfnkafka w;khs\'</string>
+    <string name="key147_sip">hadisi pitavuma tibenne atanai.</string>
+    <string name="key147_ta">அவசர நுழைவாயில் அருகில்.</string>
+    <string name="key147_tap">Avasara nulaivayil arukil.</string>
+    <string name="key147_grp">random</string>         
+
+    <string name="key148_en">I feel sorry for you.</string>
+    <string name="key148_si">ug Thd .ek ÿl ysf;kjd\'</string>
+    <string name="key148_sip">mata oya gana duka hitenawa.</string>
+    <string name="key148_ta">நான் உங்களுக்காக வருந்துகிறேன்.</string>
+    <string name="key148_tap">Naan ungalukaaka varunthukiren.</string>
+    <string name="key148_grp">gre</string>         
+
+    <string name="key149_en">i\'m hungry.</string>
+    <string name="key149_si">ug nv.skshs\'</string>
+    <string name="key149_sip">mata badaginyi.</string>
+    <string name="key149_ta">எனக்கு பசிக்குது.</string>
+    <string name="key149_tap">Enaku pasikuthu.</string>
+    <string name="key149_grp">eat</string>         
+
+    <string name="key150_en">you are always correct.</string>
+    <string name="key150_si">Thd yeu fj,dfju yß\'</string>
+    <string name="key150_sip">oya hama welawema hari.</string>
+    <string name="key150_ta">நீங்கள் எப்பவும் சரி.</string>
+    <string name="key150_tap">Neengal eppavum sary.</string>  
+    <string name="key150_grp">random</string>         
+       
+ <string name="opt_key_word">lang_option</string> 
+        
+</resources>
