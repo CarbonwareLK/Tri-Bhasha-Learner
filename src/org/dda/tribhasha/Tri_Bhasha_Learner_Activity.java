@@ -9,6 +9,9 @@ import org.dda.tribhasha.list.data.StringValueController;
 import org.dda.tribhasha.list.data.Word;
 import org.dda.tribhasha.list.data.WordCreator;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
@@ -52,6 +55,10 @@ public class Tri_Bhasha_Learner_Activity extends Activity implements Runnable {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
 
+		    AdView adView = (AdView) this.findViewById(R.id.adView);
+		    AdRequest adRequest = new AdRequest.Builder().build();
+		    adView.loadAd(adRequest);
+		
 		option_key = getString(R.string.opt_key_word);
 
 		try {

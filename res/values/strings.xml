@@ -4,7 +4,7 @@
     <string name="app_name">Tri-Bhasha-Learner</string>
     <string name="opdialog_rb_sinhala">Sinhala</string>    
     <string name="opdialog_rb_tamil">Tamil</string>
-    <string name="aboutus">Tri-Bhasha-Learner v2.1\n\nApp By: Dew.Durapix.Amalan Associates\n\nLead-Dev: Dewmal Nilanka (UOP-CS)\nDesign-Dev: Harsha Siriwardena (SLIIT-IT)\nConcept-Dev: Amalan Dhananjayan (SLIIT-IT)\n\nTop-Contributors: Sajev, Jeypa, Luksh, Yathavan, Pavithra, Kaushal, Hansaja.\n\nFor more apps visit:\nandroid.harshadura.net</string>
+    <string name="aboutus">Tri-Bhasha-Learner v2.5\n\nApp By: Dew.Durapix.Amalan Associates\n\nLead-Dev: Dewmal Nilanka\nDesign-Dev: Harsha Siriwardena\nConcept-Dev: Amalan Dhananjayan\n\nTop-Contributors: Sajev, Jeypa, Luksh, Yathavan, Pavithra, Kaushal, Hansaja. Thanks!</string>
    
     <string-array name="keymap">
         <item>key3</item>

@@ -22,6 +22,9 @@ import org.dda.tribhasha.list.data.DynamicTextController;
 import org.dda.tribhasha.list.data.StringValueController;
 import org.dda.tribhasha.list.data.Word;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+
 public class LocalizedTestApp extends Activity {
 	/** Called when the activity is first created. */
 
@@ -41,6 +44,10 @@ public class LocalizedTestApp extends Activity {
 
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.localizedtestapp);
+		
+	    AdView adView = (AdView) this.findViewById(R.id.adView);
+	    AdRequest adRequest = new AdRequest.Builder().build();
+	    adView.loadAd(adRequest);
 
 		option_key = getString(R.string.opt_key_word);
 		try {

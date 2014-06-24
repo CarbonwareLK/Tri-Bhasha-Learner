@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+   <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-6053431456462596/1245356862" />
+        
+<LinearLayout 
 	android:orientation="vertical" android:layout_width="fill_parent"
 	android:background="@drawable/custom_list_layer"
-	android:layout_height="fill_parent">
+	android:layout_height="fill_parent"
+	android:layout_below="@+id/adView" >
+
+        
 	<ExpandableListView android:id="@+id/listView"
 	     android:groupIndicator="@null"
 		android:layout_width="fill_parent" android:layout_height="fill_parent" android:scrollbars="none"></ExpandableListView>
 </LinearLayout>
+
+
+    
+</RelativeLayout>
